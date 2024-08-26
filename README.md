@@ -7,6 +7,7 @@ Aura is an AI-powered companion app designed to enhance productivity and provide
 This project is a Flutter application.
 
 Implementations and Functionalities-
+
 1->Firebase Integration: Used for user authentication and real-time data management. Here i have implemented Google Sign in and data storage like storing chat sessionsand generated/saved images and videos.
 2->Flutter Framework: The app is built using Flutter for a smooth and responsive UI.
 3->API Integration: Utilizes vvarois APIs like Gemini - for question-answering(chatting with the bot) and translation; Lexica API for image generation and ModelsLab API for video generation.
