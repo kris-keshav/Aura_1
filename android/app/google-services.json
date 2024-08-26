@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "235385413470",
+    "project_id": "aura-b81ec",
+    "storage_bucket": "aura-b81ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235385413470:android:ead55d840a781a6a5bb9cf",
+        "android_client_info": {
+          "package_name": "com.example.aura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235385413470-eulctd6gbrh6di5gk666oule5h3ku7sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aura",
+            "certificate_hash": "34f63e4ceaf610356f63c8b8d195a1c54f87242c"
+          }
+        },
+        {
+          "client_id": "235385413470-pvsp6vsqsb0q1mgoqia5el382gqc2d6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDebyYnji1ghbPrPTlcYDhJcdJ5LuAnjUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235385413470-pvsp6vsqsb0q1mgoqia5el382gqc2d6b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235385413470-0nn8crelni11bfb17r3tcco7snbskjmo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aura"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
